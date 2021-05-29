@@ -1,0 +1,47 @@
+Hall effect
+
+Intro
+	3	silicon
+	3	hall effect
+	3	procedure
+	
+Apparatus
+	1	not complete
+	
+Results
+	2	wafer description
+	5	resistivity
+		3	R-V or R-I
+	5	heat determination
+	5	B - I calibration
+		3	B-I
+	5	hall measurement
+		3	V-B
+	5	carrier density and mobility calculation
+	
+Summary
+	3	results
+	3	uncertainty discussion
+	2	improvement
+	
+Reference
+	5
+
+
+SOL
+
+Intro
+	3	speed of light
+	3	measurement
+
+Results
+	5	setup and 10-90 value
+		4	pulse waveform
+	5	cable index
+		3	how to determine time
+		4	waveform comparison
+	5	speed in air
+	5	in glass
+	5	in water
+		
+	
