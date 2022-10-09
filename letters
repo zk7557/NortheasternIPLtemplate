@@ -8,11 +8,22 @@
 
 Show your primary results numerically with its errors.
 
+abstract should be a brief summary of your paper. Try three sentences: what did you do, what is your primary result, and what is your conclusion
+
 Explicitly show the goals of the experiment. Which theory do you want to prove? or which physical constant to measure?
 Be specific about the goals. Mention the theory you want to prove.
 
+Introduce the background quantitatively.
+
 briefly introduce the experimental methods
+
+past the table, not a screenshot
+
+always show errors along with the data
 
 
 Use the IPL calculator to find the error of the slope.
 compare the experimental-theoretical result difference with the experimental error.
+Be more quantitative, compare the experimental-theoretical result difference with the experimental error.
+
+suggest some improvements to overcome the most significant source of error
