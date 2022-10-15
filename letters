@@ -11,7 +11,7 @@ Show your primary results numerically with its errors.
 abstract should be a brief summary of your paper. Try three sentences: what did you do, what is your primary result, and what is your conclusion
 
 Explicitly show the goals of the experiment. Which theory do you want to prove? or which physical constant to measure?
-Be specific about the goals. Mention the theory you want to prove.
+Be specific about the goals. Mention the theory you want to prove, or the constant you want to measure.
 
 Introduce the background quantitatively.
 
@@ -19,6 +19,10 @@ briefly introduce the experimental methods
 
 past the table, not a screenshot
 
+Use the labels to explain your figures. Make the readers understand it by just reading the label.
+Use the labels to explain your tables, what does each column stand for?
+
+Theoretical values have no errors
 always show errors along with the data
 
 
