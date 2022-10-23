@@ -8,7 +8,7 @@
 
 Show your primary results numerically with its errors.
 
-abstract should be a brief summary of your paper. Try three sentences: what did you do, what is your primary result, and what is your conclusion
+abstract should be a brief summary of your paper. Try three sentences: what did you do, what are your primary results, and what is your conclusion
 
 Explicitly show the goals of the experiment. Which theory do you want to prove? or which physical constant to measure?
 Be specific about the goals. Mention the theory you want to prove, or the constant you want to measure.
@@ -21,10 +21,12 @@ past the table, not a screenshot
 
 Use the labels to explain your figures. Make the readers understand it by just reading the label.
 Use the labels to explain your tables, what does each column stand for?
+Try this 5-column style: | explanation | symbol | value | error | unit |
 
 Theoretical values have no errors
 always show errors along with the data
-
+one digit of sig fig for error, and align the number of decimal places of the value with it
+Specify what caused the error, systematic or random, and how much it could affect the result.
 
 Use the IPL calculator to find the error of the slope.
 compare the experimental-theoretical result difference with the experimental error.
